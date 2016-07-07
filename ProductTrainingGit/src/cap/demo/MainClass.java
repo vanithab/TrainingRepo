@@ -13,6 +13,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 			System.out.println("Display Product Main 1");
 			System.out.println("Display Product Main 2");
+			System.out.println("Display Product Main 3");
 	}
 	
 }
